@@ -1,8 +1,11 @@
 
 # furry-garbanzo
 Furry Garbanzo all the things
-https://travis-ci.org/wahidnory/furry-garbanzo.svg?branch=master
-https://travis-ci.org/wahidnory/furry-garbanzo.svg?branch=develop
+
+Develop Status:
+[![Build Status](https://travis-ci.org/wahidnory/furry-garbanzo.svg?branch=develop)](https://travis-ci.org/wahidnory/furry-garbanzo)
+Master Status:
+[![Build Status](https://travis-ci.org/wahidnory/furry-garbanzo.svg?branch=master)](https://travis-ci.org/wahidnory/furry-garbanzo)
 
 Todo:
 * Give this a purpose, for now it's an angular 2 starter app.
